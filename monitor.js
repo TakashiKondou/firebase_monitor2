@@ -1,22 +1,7 @@
-/*initialize*/
-/*
-var config = {
-    apiKey: "AIzaSyCV9QTs7Kzg5olXhrBWgbWjcAJZrXyV8ZU",
-    authDomain: "nasco-obs-monitor.firebaseapp.com",
-    databaseURL: "https://nasco-obs-monitor.firebaseio.com",
-    projectId: "nasco-obs-monitor",
-    storageBucket: "nasco-obs-monitor.appspot.com",
-    messagingSenderId: "944989612626"
-};
-*/
+
 
 var config = {
-    apiKey: "AIzaSyDCXOzrjAxfQX-DXfdbsJUialafStqqYyU",
-    authDomain: "nasco-obs-monitor.firebaseapp.com",/*"test-d187a.firebaseapp.com",*/
-    databaseURL: "https://test-d187a.firebaseio.com",
-    projectId: "test-d187a",
-    storageBucket: "test-d187a.appspot.com",
-    messagingSenderId: "907285651086"
+
 };
 
 
